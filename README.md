@@ -78,7 +78,7 @@ Having a bug tracking system doesn't make bug handling efficient and CI/CD doesn
 
 # The Team
 
-- How is the work organised?
+- How is the work organized?
 - How does the intra/inter-team communication typically work?
 - Do you use any tools for project organization? What is your experience with them?
 - How are differences of opinions resolved?
